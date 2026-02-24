@@ -1,0 +1,25 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Environnement R
+renv/
+
+# Fichiers R
+.Rhistory
+.RData
+.Ruser
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers Jupyter
+.ipynb_checkpoints/
+
+# Fichiers IDE/OS
+.DS_Store
+.idea/
+.vscode/
