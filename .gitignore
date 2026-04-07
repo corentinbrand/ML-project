@@ -10,6 +10,7 @@ renv/
 .Rhistory
 .RData
 .Ruser
+.R-Makevars-codex
 
 # Fichiers Python
 __pycache__/
